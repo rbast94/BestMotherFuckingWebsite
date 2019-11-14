@@ -1,0 +1,36 @@
+body {
+	margin: auto; 
+	max-width: 800px;
+	margin-top: 32px;
+	padding: 16px;
+}
+
+
+#wrong {
+	color: #c0392b; 
+	text-decoration: underline;
+}
+
+.red {
+	color: #730000;
+}
+
+.petit {
+	font-size: 7px;
+}
+
+.block {
+	cursor: not-allowed;
+}
+
+.blue {
+	color: #00e
+}
+
+.violet {
+	color: #551a8b
+}
+
+.logo {
+	height: 15px; 
+}
